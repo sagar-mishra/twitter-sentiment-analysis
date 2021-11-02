@@ -23,6 +23,6 @@ https://www.kaggle.com/c/twitter-sentiment-analysis/data
 
 
 ## Model Training steps 
-* Follow twitter-sentiment-analysis.ipynb step by step to train model.
+* Follow twitter-sentiment-analysis.ipynb notebook step by step to train model.
 
 
